@@ -24,8 +24,8 @@ public class IOU {
         mattsIOU.setSum("Michael", 30);
         mattsIOU.setSum("Maksims", 13.5);
 
-        System.out.println(mattsIOU.howMuchDoIOweTo("Arthur"));  // 51.5
-        System.out.println(mattsIOU.howMuchDoIOweTo("Michael")); // 30.0
+        System.out.println(mattsIOU.howMuchDoIOweTo("Arthur"));  
+        System.out.println(mattsIOU.howMuchDoIOweTo("Michael")); 
         System.out.println(mattsIOU.howMuchDoIOweTo("Maksims"));
     }
 }
