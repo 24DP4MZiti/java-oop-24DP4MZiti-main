@@ -1,4 +1,4 @@
-package rvt;
+package rvt.UserInterface;
 
 import java.util.Scanner;
 

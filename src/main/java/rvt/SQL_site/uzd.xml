@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VMkursi>
+
+  <kurss id="1">
+    <nosaukums>Matematika</nosaukums>
+    <apraksts>Matematika no 9 līdz 12 klases limenim.</apraksts>
+    <pasniedzejs>Jurate Bushido</pasniedzejs>
+    <ilgums>120</ilgums>
+    <studentu_skaits>30</studentu_skaits>
+    <limenis>vidējs</limenis>
+  </kurss>
+ 
+  <kurss id="2">
+    <nosaukums>C++ valodas pamati</nosaukums>
+    <apraksts>C++ valodas pamatu apgūšana no nulles.</apraksts>
+    <pasniedzejs>Hatuna Halvaša</pasniedzejs>
+    <ilgums>60</ilgums>
+    <studentu_skaits>35</studentu_skaits>
+    <limenis>iesācēji</limenis>
+  </kurss>
+
+  <kurss id="3">
+    <nosaukums>Angļu valoda C1</nosaukums>
+    <apraksts>Kurs kur māca angļu valodu līdz C1 līmenim.</apraksts>
+    <pasniedzejs>Natalja Kovaļova</pasniedzejs>
+    <ilgums>130</ilgums>
+    <studentu_skaits>15</studentu_skaits>
+    <limenis>profesionāls</limenis>
+  </kurss>
+
+</VMkursi>
